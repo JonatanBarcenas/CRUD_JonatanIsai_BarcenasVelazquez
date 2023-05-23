@@ -1,12 +1,17 @@
+using GymManger.DataAccess.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Passengers.ApplicationServices.Passengers;
+using Passengers.Core;
+using Passengers.DataAccess;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +32,14 @@ namespace Passengers.Web
         public void ConfigureServices(IServiceCollection services)
         {
 
+            string connectionString = Configuration.GetConnectionString("Default");
+
+            services.AddDbContext<PassengersDataContext>(options =>
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
             services.AddControllers();
+            services.AddTransient<IRepository<int, Passenger>, Repository<int, Passenger>>();
+            services.AddTransient<IPassengersAppService, PassengersAppService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Passengers.Web", Version = "v1" });

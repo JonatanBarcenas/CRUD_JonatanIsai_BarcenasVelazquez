@@ -4,14 +4,76 @@
     "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj": {
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\Passengers.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj",
-        "projectName": "Passengers.Web",
-        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\Passengers.ApplicationServices.csproj",
+        "projectName": "Passengers.ApplicationServices",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\Passengers.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj"
+              },
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\Passengers.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\Passengers.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj",
+        "projectName": "Passengers.Core",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,7 +101,161 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\Passengers.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\Passengers.DataAccess.csproj",
+        "projectName": "Passengers.DataAccess",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\Passengers.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Core\\Passengers.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj",
+        "projectName": "Passengers.Web",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\Passengers.Web.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\Passengers.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Passengers Microservice\\Passengers.Web\\Passengers.ApplicationServices\\Passengers.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

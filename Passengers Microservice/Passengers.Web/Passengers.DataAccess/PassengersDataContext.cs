@@ -11,5 +11,11 @@ namespace Passengers.DataAccess
     public class PassengersDataContext : DbContext
     {
         public virtual DbSet<Passenger> Passenger { get; set; }
+
+        public PassengersDataContext(DbContextOptions<PassengersDataContext> options) : base(options)
+        {
+
+        }
+
     }
 }
