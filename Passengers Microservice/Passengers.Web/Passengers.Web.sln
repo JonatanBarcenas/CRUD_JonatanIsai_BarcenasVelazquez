@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< Updated upstream
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passengers.Web", "Passengers.Web\Passengers.Web.csproj", "{D519A7AE-FFDE-44F8-8C76-97D906A7DB83}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passengers.Core", "Passengers.Core\Passengers.Core.csproj", "{E52FC58C-7CDF-4158-AFBB-857D3E5BF4C4}"
@@ -12,6 +13,17 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passengers.UnitTest", "Passengers.UnitTest\Passengers.UnitTest.csproj", "{1B24664B-9662-472A-8886-A104638130AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passengers.DataAccess", "Passengers.DataAccess\Passengers.DataAccess.csproj", "{62C8ABE7-A6B8-42BB-AF23-B2C1AEC77F6F}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passengers.Web", "Passengers.Web\Passengers.Web.csproj", "{D519A7AE-FFDE-44F8-8C76-97D906A7DB83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passengers.Core", "Passengers.Core\Passengers.Core.csproj", "{E52FC58C-7CDF-4158-AFBB-857D3E5BF4C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passengers.ApplicationServices", "Passengers.ApplicationServices\Passengers.ApplicationServices.csproj", "{0BAC9506-5122-427B-8E98-E11A88CD7FB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passengers.UnitTest", "Passengers.UnitTest\Passengers.UnitTest.csproj", "{1B24664B-9662-472A-8886-A104638130AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Passengers.DataAccess", "Passengers.DataAccess\Passengers.DataAccess.csproj", "{62C8ABE7-A6B8-42BB-AF23-B2C1AEC77F6F}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
