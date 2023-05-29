@@ -12,10 +12,16 @@ using Microsoft.OpenApi.Models;
 using Passengers.ApplicationServices.Passengers;
 using Passengers.Core;
 using Passengers.DataAccess;
+using Serilog;
+using Serilog.Events;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Serilog.Sinks.MySQL;
+using Serilog.Exceptions;
+using Serilog.Sinks.MSSqlServer;
+using MySql.Data.MySqlClient;
 
 namespace Passengers.Web
 {
@@ -34,6 +40,24 @@ namespace Passengers.Web
 
             string connectionString = Configuration.GetConnectionString("Default");
 
+
+            Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Verbose()
+    .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+    .MinimumLevel.Override("System", LogEventLevel.Warning)
+    .Enrich.FromLogContext()
+    .Enrich.WithExceptionDetails()
+    .WriteTo.MySQL(connectionString, tableName: "Logs") 
+    .CreateLogger();
+
+
+
+            services.AddLogging(loggingBuilder =>
+            {
+                loggingBuilder.ClearProviders();
+                loggingBuilder.AddSerilog();
+            });
+
             services.AddDbContext<PassengersDataContext>(options =>
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
@@ -46,15 +70,26 @@ namespace Passengers.Web
             });
         }
 
+
+
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, PassengersDataContext context)
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Passengers.Web v1"));
+                app.UseExceptionHandler("/error-development");
             }
+            else
+            {
+                app.UseExceptionHandler("/error");
+            }
+
+            app.UseSerilogRequestLogging();
+
+            app.UseDeveloperExceptionPage();
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Passengers.Web v1"));
+            context.Database.Migrate();
 
             app.UseHttpsRedirection();
 
@@ -67,5 +102,7 @@ namespace Passengers.Web
                 endpoints.MapControllers();
             });
         }
+        
+
     }
 }
