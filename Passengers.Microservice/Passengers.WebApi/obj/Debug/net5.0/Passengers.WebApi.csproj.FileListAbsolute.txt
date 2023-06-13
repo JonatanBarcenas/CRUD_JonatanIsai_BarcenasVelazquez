@@ -1,0 +1,459 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Exceptions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.MySQL.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\scopedcss\bundle\Passengers.WebApi.styles.css
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Pack.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.Passengers.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\refint\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\ref\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Exceptions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.MySQL.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Tavis.UriTemplates.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\scopedcss\bundle\Passengers.WebApi.styles.css
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Pack.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.Passengers.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\refint\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\ref\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Exceptions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.MySQL.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Tavis.UriTemplates.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\scopedcss\bundle\Passengers.WebApi.styles.css
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Pack.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.Passengers.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\refint\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\ref\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.exe
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Exceptions.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Serilog.Sinks.MySQL.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Tavis.UriTemplates.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.ApplicationServices.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.Core.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\bin\Debug\net5.0\Passengers.DataAccess.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\scopedcss\bundle\Passengers.WebApi.styles.css
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\Passengers.WebApi.StaticWebAssets.Pack.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.Passengers.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Passengers.WebApi.props
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\refint\Passengers.WebApi.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\Passengers.WebApi.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi\obj\Debug\net5.0\ref\Passengers.WebApi.dll

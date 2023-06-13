@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi\\Journeys.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj",
+        "projectName": "Journeys.Core",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj",
+        "projectName": "Journeys.DataAccess",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\Journeys.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\Journeys.ApplicationServices.csproj",
+        "projectName": "Journeys.ApplicationServices",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\Journeys.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj"
+              },
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\Journeys.WebApi.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\Journeys.WebApi.Shared.csproj",
+        "projectName": "Journeys.WebApi.Shared",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\Journeys.WebApi.Shared.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi\\Journeys.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi\\Journeys.WebApi.csproj",
+        "projectName": "Journeys.WebApi",
+        "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi\\Journeys.WebApi.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.Core\\Journeys.Core.csproj"
+              },
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journey.DataAccess\\Journeys.DataAccess.csproj"
+              },
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\Journeys.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.ApplicationServices\\Journeys.ApplicationServices.csproj"
+              },
+              "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\Journeys.WebApi.Shared.csproj": {
+                "projectPath": "C:\\Users\\jonat\\OneDrive\\Documentos\\GitHub\\CRUD_JonatanIsai_BarcenasVelazquez\\Journey.Microservice\\Journeys.WebApi.Shared\\Journeys.WebApi.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.31.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.MySQL": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

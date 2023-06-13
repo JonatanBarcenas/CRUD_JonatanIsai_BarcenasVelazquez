@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Passengers.Core\Passengers.Core.csproj" />
+    <ProjectReference Include="..\Passengers.DataAccess\Passengers.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

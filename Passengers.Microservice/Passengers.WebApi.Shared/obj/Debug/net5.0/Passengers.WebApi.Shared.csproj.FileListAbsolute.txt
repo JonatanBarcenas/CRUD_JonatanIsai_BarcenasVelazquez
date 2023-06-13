@@ -1,0 +1,48 @@
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\refint\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\ref\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\refint\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers Microservice\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\ref\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\refint\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\ref\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.deps.json
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\bin\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\refint\Passengers.WebApi.Shared.dll
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\Passengers.WebApi.Shared.pdb
+C:\Users\jonat\OneDrive\Documentos\GitHub\CRUD_JonatanIsai_BarcenasVelazquez\Passengers.Microservice\Passengers.WebApi.Shared\obj\Debug\net5.0\ref\Passengers.WebApi.Shared.dll

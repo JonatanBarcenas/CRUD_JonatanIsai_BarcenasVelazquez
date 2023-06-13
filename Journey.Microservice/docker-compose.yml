@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+
+  mysql:
+    image: mysql
+    ports:
+      - 3307:3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=@Canelo67
+      - MYSQL_DATABASE=journeys
+
+  journeys.webapi:
+    image: ${DOCKER_REGISTRY-}journeyswebapi
+    build:
+      context: .
+      dockerfile: Journeys.WebApi\Dockerfile
+    ports:
+      - 8080:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__Default=Server=mysql;Port=3306;Database=journeys;Uid=root;Pwd=@Canelo67
